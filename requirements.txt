@@ -1,0 +1,12 @@
+ipykernel
+ipywidgets
+kagglehub
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+lightgbm
+xgboost
+catboost
+optuna

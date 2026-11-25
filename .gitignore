@@ -1,0 +1,20 @@
+# Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Competition data (download it from Kaggle instead; see README)
+data/
+*.csv
+!wide_stack_members.csv
+
+# Large generated files
+oof/
+submissions/
+catboost_info/
+*.npy
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
